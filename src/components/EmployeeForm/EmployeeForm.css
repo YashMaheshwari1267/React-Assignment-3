@@ -1,0 +1,23 @@
+button {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 24px;
+    margin: 10px;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: lightgreen;
+    color: black;
+  }
+
+  input {
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+  }
+
+  
